@@ -1,6 +1,6 @@
 # 👑 Sobre mim
 
-> **“Todos nós somos escravos de alguma coisa.”**
+> **“Aqueles que não conseguem enxergar além de seus próprios desejos jamais serão livres.”**
 
 💻 Estudante de Desenvolvimento de Sistemas  
 ⚙️ Explorando programação e tecnologia  
