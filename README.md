@@ -19,9 +19,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorGomes1212&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
