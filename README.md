@@ -25,8 +25,14 @@
 
 ---
 
+---
+
 ## 👑
 
-<img src="./askeladd-github.png" width="100%">
+<p align="center">
+  <img src="./download.png" width="100%">
+</p>
 
-> **Rei de Gales**
+**Rei de Gales**
+
+
