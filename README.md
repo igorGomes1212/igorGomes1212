@@ -5,7 +5,7 @@
 💻 Estudante de Desenvolvimento de Sistemas  
 ⚙️ Explorando programação e tecnologia  
 📚 Sempre aprendendo algo novo  
-🏋️ Academia, games e animes  
+
 
 ---
 
