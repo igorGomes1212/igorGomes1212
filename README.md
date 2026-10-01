@@ -19,7 +19,7 @@
 
 ---
 
-
+**“Um homem deve ter algo pelo qual esteja disposto a morrer.”**
 ---
 
 ---
