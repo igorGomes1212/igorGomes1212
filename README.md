@@ -30,6 +30,6 @@
   <img src="./download.png" width="100%">
 </p>
 
-**Rei de Gales**
+**“Se você quer alguma coisa, precisa lutar por ela.”**
 
 
